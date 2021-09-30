@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dwenzlick
 - 👀 I’m interested in software development, boardgames, comics, and cooking.
-- 🌱 I’m currently learning. (never stop learning)
+- 🌱 I’m currently learning. I have been doing that for the past few decades. (never stop learning)
 - 💞️ I’m looking to collaborate on anything and everything
 
 <!---
